@@ -51,5 +51,5 @@ $ curl -d @iris.csv -X POST https://service-m9pxktbc-1302315972.hk.apigw.tencent
 
 [上线的网页](https://www.secondstate.io/demo/2020-tencentcloud.html) | [HTML 源代码](https://github.com/second-state/www/blob/master/themes/hugo-notepadium/static/demo/2020-tencentcloud.html)
 
-注意: 你必须在腾讯无服务器云函数的 API 网关上 [打开 CORS](https://www.secondstate.io/articles/tencentcloud-api-gateway-cors/) ，从而让 JavaScript AJAX 呼叫成功。
+注意: 你必须在腾讯无服务器云函数的 API 网关上 [启用 CORS](https://www.secondstate.io/articles/tencentcloud-api-gateway-cors/) ，从而让 JavaScript AJAX 呼叫成功。
 
