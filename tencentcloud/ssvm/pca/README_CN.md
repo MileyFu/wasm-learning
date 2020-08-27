@@ -2,7 +2,7 @@
 
 这个例子中，我们演示了如何对一个二维数据数组进行主成分分析(PCA)，然后在一个 SVG 图中绘制结果。看看[这里的实例](https://www.secondstate.io/demo/2020-tencentcloud.html).
 
-> 用Rust绘制 SVG 图 , 我们使用了 [Cetra]描述的技巧(https://cetra3.github.io/blog/) 在 [本文中](https://cetra3.github.io/blog/drawing-svg-graphs-rust/).
+> 用Rust绘制 SVG 图 , 我们使用了[Cetra]在[本文中](https://cetra3.github.io/blog/drawing-svg-graphs-rust/)描述的技巧(https://cetra3.github.io/blog/).
 
 ## 前期准备
 
